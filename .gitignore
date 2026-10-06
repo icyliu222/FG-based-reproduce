@@ -1,0 +1,19 @@
+# Excluded files (per user request)
+A_Local_Community_Detection_Method_Based_on_Folded_Subgraph.pdf
+sweep_log.txt
+复现详细规划.md
+论文精读_基于折叠子图的局部社区检测方法.md
+论文精读_基于折叠子图的局部社区检测方法.pptx
+
+# Common ignores
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+Thumbs.db
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+env/

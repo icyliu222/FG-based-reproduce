@@ -1,0 +1,3 @@
+dataset,method,recall,precision,fscore,gamma,h
+dolphins,M-based,0.195946,0.956989,0.308953,,
+dolphins,FG-based,0.907459,0.965076,0.929976,1.0,0.6
