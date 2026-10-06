@@ -82,7 +82,7 @@ python experiments/run_lfr.py
 python experiments/sweep.py
 ```
 
-对 γ ∈ {0.5, 0.6, 0.7, 0.8, 0.9, 1.0} 和 h ∈ {0.5, 0.6, 0.7, 0.8, 0.9, 1.0} 进行二维网格搜索，结果保存至 `results/gamma_h_sweep.csv`。
+对 γ ∈ {0.6, 0.8, 1.0} 和 h ∈ {0.6, 0.8, 1.0, 1.2, 1.4} 进行二维网格搜索，结果保存至 `results/gamma_h_sweep.csv`。
 
 ## 各数据集最优参数
 
